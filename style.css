@@ -1,0 +1,21 @@
+body{
+    
+    background-color: blue;
+}
+.clock{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 10%;
+    transform: translateX(-50%)translateY(-50%);
+    font-size: 60px;
+    color: aqua;
+    background-color: rgba(255, 196, 243, 0.752);
+}
+#DigitalClock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color:aqua;
+    transform: translateX(-50%)translateY(-50%);
+    font-size: 60px;
+}
